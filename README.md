@@ -15,4 +15,6 @@ www.nn4e.com
 
 Some output is as below:
 
+![image](https://github.com/user-attachments/assets/7f5ce368-3fbb-413b-b7d1-5d087232b8d8)
 
+![Uploading image.png…]()
